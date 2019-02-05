@@ -1,11 +1,11 @@
 # How to
 1. run `npm i`;
-2. change credentials to needed by changing credentials.js;
+2. change credentials to needed by changing `credentials.js`;
 3. run `npm start`;
 4. ...profit.
-### If wanna use same credentials for different script
+### If wanna use same credentials for different scripts
 1. change `credentialsRelativePath` to your credentials file path in `config.js`
-### If wanna use same proxies for different script
+### If wanna use same proxies for different scripts
 1. change `proxieslistRelativePath` to your proxieslist file path in `config.js`
 ### If wanna increase speed of creating accounts by not loading images/stylesheets/fonts/media files
 1. change `loadOptimizations` to `true` in `config.js`
@@ -17,6 +17,6 @@
 1. change `neededToUseProxies` to `false` in `config.js`
 ### If wanna to optimize proxieslist
 1. change `proxiesListOptimization` to `false` in `config.js`
-(this will delete blocked by site proxies from proxieslist )
+(this will delete blocked by site proxies from proxieslist )//not done yet
 ### If wanna to debug script
 1. run `npm run debug`;
