@@ -17,6 +17,6 @@
 1. change `neededToUseProxies` to `false` in `config.js`
 ### If wanna to optimize proxieslist
 1. change `proxiesListOptimization` to `false` in `config.js`
-(this will delete blocked by site proxies from proxieslist )
+(this will delete blocked by site proxies from proxieslist )//not done yet
 ### If wanna to debug script
 1. run `npm run debug`;
