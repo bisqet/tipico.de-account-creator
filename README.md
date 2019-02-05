@@ -1,7 +1,8 @@
 # How to
-1. change credentials to needed by changing credentials.js
-2. run `npm start`
-3. ...profit
+1. run `npm i`;
+2. change credentials to needed by changing credentials.js;
+3. run `npm start`;
+4. ...profit.
 ### If wanna use same credentials for different script
 1. change `credentialsRelativePath` to your credentials file path in `config.js`
 ### If wanna use same proxies for different script
@@ -17,3 +18,5 @@
 ### If wanna to optimize proxieslist
 1. change `proxiesListOptimization` to `false` in `config.js`
 (this will delete blocked by site proxies from proxieslist )
+### If wanna to debug script
+1. run `npm run debug`;
