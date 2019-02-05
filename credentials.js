@@ -1,12 +1,12 @@
 const credentials = [
   {
     country: "DE",
-    username: "rawrer",
-    email: "rawrers@nwytg.net",
+    username: "gutNutzer100",
+    email: "somasdslr100@nwytg.net",
     password: "sOMen1(|<2",
     passwordConfirm: "sOMen1(|<2",
     title: "Mr",
-    firstName: "rawrers",
+    firstName: "Jackie",
     lastName: "Ripper",
     birthYear: "1998", birthMonth: "4", birthDay: "12",
     nationality: "DE",
@@ -20,13 +20,13 @@ const credentials = [
   },
   {
     country: "DE",
-    username: "rawreracf",//this account already registered
-    email: "sasdfl02@nwytg.net",
+    username: "gutNutzer0000002",//this account already registered
+    email: "someemail02@nwytg.net",
     password: "sOMen1(|<2",
     passwordConfirm: "sOMen1(|<2",
     title: "Mr",
     firstName: "Daniels",
-    lastName: "asf",
+    lastName: "Jack",
     birthYear: "1998", birthMonth: "4", birthDay: "12",
     nationality: "NL",
     countryOfBirth: "TR",
@@ -39,12 +39,12 @@ const credentials = [
   },
   {
     country: "DE",
-    username: "gutNutzer003",
-    email: "someemail003@nwytg.net",
+    username: "gutNutzer0033",
+    email: "someemail0033@nwytg.net",
     password: "sOMen1(|<2",
     passwordConfirm: "sOMen1(|<2",
     title: "Mr",
-    firstName: "Francis",
+    firstName: "Flow",
     lastName: "Moses",
     birthYear: "1998", birthMonth: "4", birthDay: "12",
     nationality: "GB",
