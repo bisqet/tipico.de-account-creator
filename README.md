@@ -1,6 +1,6 @@
 # How to
 1. run `npm i`;
-2. change credentials to needed by changing credentials.js;
+2. change credentials to needed by changing `credentials.js`;
 3. run `npm start`;
 4. ...profit.
 ### If wanna use same credentials for different script
