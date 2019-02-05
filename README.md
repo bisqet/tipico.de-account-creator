@@ -3,7 +3,7 @@
 2. change credentials to needed by changing `credentials.js`;
 3. run `npm start`;
 4. ...profit.
-### If wanna use same credentials for different script
+### If wanna use same credentials for different scripts
 1. change `credentialsRelativePath` to your credentials file path in `config.js`
 ### If wanna use same proxies for different scripts
 1. change `proxieslistRelativePath` to your proxieslist file path in `config.js`
