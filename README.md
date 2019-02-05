@@ -5,7 +5,7 @@
 4. ...profit.
 ### If wanna use same credentials for different script
 1. change `credentialsRelativePath` to your credentials file path in `config.js`
-### If wanna use same proxies for different script
+### If wanna use same proxies for different scripts
 1. change `proxieslistRelativePath` to your proxieslist file path in `config.js`
 ### If wanna increase speed of creating accounts by not loading images/stylesheets/fonts/media files
 1. change `loadOptimizations` to `true` in `config.js`
