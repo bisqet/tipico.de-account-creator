@@ -2,7 +2,7 @@ const config ={
   credentialsRelativePath : "./credentials.js",//add ability to use same credentials for different scripts
   proxieslistRelativePath : "./proxieslist.js",//add ability to use same proxies for different scripts
 };
-const {credentials, credentialsSelectors, submitSelector} = require(credentialsRelativePath);
+const {credentials, credentialsSelectors, submitSelector} = require(config.credentialsRelativePath);
 
 module.exports = {
   ...config,
