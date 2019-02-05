@@ -36,7 +36,7 @@ const startSigningUp = async (config, proxies, credentials) => {
         await browser.close();
       })
       .catch(async (err) => {// all non standard scenarios go here (like proxy errors and other errors)
-        if (err.message.search(/proxy|ERR_CONNECTION_RESET|EMPTY_RESPONSE|Navigation Timeout|WEBSOCKET|browser has disconnected/i) === -1) console.warn(err);//not warn if problem caused by proxy
+        if (err.message.search(/proxy|ERR_TUNNEL_CONNECTION_FAILED|ERR_CONNECTION_RESET|EMPTY_RESPONSE|Navigation Timeout|WEBSOCKET|browser has disconnected/i) === -1) console.warn(err);//not warn if problem caused by proxy
         await browser.close();
       })
   }
